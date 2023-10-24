@@ -41,6 +41,7 @@ The developed tree, in turn, ensures the placement of diagnoses with similar sym
 When providing an answer to each question, all diagnoses located on the leaf nodes of the corresponding subtree with the root - the selected answer - receive 1 point.
 
 <br />
+
 For example, let the answer to the question M "Is there a pain in the throat" - No. The subtree with the root node as the answer "No" contains 3 leaf nodes - the diagnoses "Cold", "Sinusitis" and "Viral infections". For all three diseases there is no inherent pain in the throat and they receive 1 point each.
 
 <br />
