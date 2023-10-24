@@ -1,0 +1,74 @@
+.q-content {
+	margin-top: 30px;
+	width: 100%;
+	display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column;
+	border-radius: 20px;
+}
+
+.cont {
+	display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column;
+	padding: 70px 150px;
+}
+
+.q-text-container {
+	border-radius: 10px;
+	background: #5296D5;
+	padding: 15px 20px;
+	color: white;
+	margin-top: 50px;
+	width: 100%;
+}
+
+.answers-container {
+	padding: 50px 150px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center; 
+    align-items: center; 
+	width: 55%;
+}
+
+.result-content {
+	margin-top: 50px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center; 
+    align-items: center; 
+	width: 55%;
+}
+
+.result-component {
+    padding: 12px 0 12px 0;
+    border: 0;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 10px;
+    width: 100%;
+	font-family: "Exo 2";
+	margin-top: 10px;
+	color: white;
+}
+
+.q-text-container-2 {
+	border-radius: 10px;
+	background: #C9C9C9;
+	padding: 15px 20px;
+	color: white;
+	margin-top: 50px;
+	width: 100%;
+}
+
+.button {
+	width: 20%;
+	font-family: "Exo 2";
+	font-size: 12px;
+	margin-top: 50px;
+}
