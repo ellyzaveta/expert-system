@@ -45,5 +45,6 @@ When providing an answer to each question, all diagnoses located on the leaf nod
 For example, let the answer to the question M "Is there a pain in the throat" - No. The subtree with the root node as the answer "No" contains 3 leaf nodes - the diagnoses "Cold", "Sinusitis" and "Viral infections". For all three diseases there is no inherent pain in the throat and they receive 1 point each.
 
 <br />
+<br />
 
 Thus, as a result, a table with diagnoses and points is formed, 3 diagnoses with the highest number of points are selected and the final result is formed, representing 3 diagnoses with different confidence coefficients.
